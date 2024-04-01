@@ -179,11 +179,8 @@ n2p2をインストールする方法について説明する。Linux環境
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 n2p2は
-
-GSL (https://www.gnu.org/software/gsl/)と
-
+GSL (https://www.gnu.org/software/gsl/) と
 Eigen (https://eigen.tuxfamily.org/)
-
 を必要とする。利用したい環境にこれらがインストールされていない場合上述のウェブサイトからアーカイブをダウンロードする。バージョンにそれほど依存しないはずなので，最新版をダウンロードすればよい。
 
 また，BLAS
