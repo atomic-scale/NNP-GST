@@ -80,7 +80,7 @@ n2p2 (https://github.com/CompPhysVienna/n2p2), ænet
 計算条件                 設定値
 ==================== ============================================
 カットオフエネルギー           25 Rydberg
-*k*\ 点サンプリング         cubic系： $2 \\times 2 \\times 1$
+*k*\ 点サンプリング  cubic系： $2 \\times 2 \\times 1$
                      アモルファス，液体： $\\Gamma$ 点のみ
 収束判定条件               1e-8 hartree/atom
 時間刻み                 4 fs
